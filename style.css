@@ -33,6 +33,32 @@ a
 a:hover{
     color:crimson;
 }
+
+.school-container {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+  }
+  
+.content {
+    display: flex;
+    align-items: center;
+}
+
+h4 {
+    margin-top: 5px; /* 调整标题与上边框的距离 */
+  }
+  
+img {
+    width: 150px;
+    margin-right: 20px;
+}
+  
+p {
+    margin: 0;
+}
+
 footer
 {
     margin: 0 auto;
